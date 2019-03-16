@@ -1,0 +1,32 @@
+#main{
+  border: 1px solid grey;
+  box-shadow: 5px 10px grey;
+  width: 320px;
+}
+#card{
+	margin-left: 40%
+	
+}
+
+h2{
+  margin: 10px;
+}
+#image-bear{
+  margin: 10px;
+  width: 300px;
+}
+#description{
+  border: 1px solid grey;
+  margin: 10px;
+}
+.facts{
+  padding: 10px;
+  font-size: 14px;
+  text-align: justify;
+}
+.list{
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
+  margin: 5px;
+}
